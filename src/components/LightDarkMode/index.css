@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.heading {
+  color: #000000;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.heading1 {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.button {
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000000;
+  padding: 10px;
+}
+.card2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000000;
+  background-color: #000000;
+  padding: 10px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  min-height: 100vh;
+}
